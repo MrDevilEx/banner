@@ -2,7 +2,7 @@
 #termuxstyle
 clear
 figlet -f big Termux Banner | lolcat
-figlet -f big Krish tech studio
+figlet -f big Mr Devil Ex
 echo -e "\e[92mMake by Mahadi"
 
 
